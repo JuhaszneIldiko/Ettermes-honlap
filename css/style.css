@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    background-color: #fff;
+    color: crimson;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+table{
+    width: 100%;
+
+}
+
+table h2{
+    font-family: 'Dancing Script', cursive;    
+}
+
+#face{
+    width: 50px;
+    height: 50px;
+}
+#logo{
+    width: 80px;
+    height: 80px;
+}
+#választás{
+    height: 500px;
+    background-image: url(../img/indian-food.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;   
+    text-align:left;
+    text-transform: none;
+    padding-left: 3rem;
+}
+
+#kep3{
+    width: 100%;
+    background-color:crimson;
+    color: black;
+    font-size: 25px;
+    font-style: italic;   
+    padding: 3rem;
+
+}
+#lista{
+    padding: 2rem;
+}
+
